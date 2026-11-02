@@ -1,76 +1,102 @@
 # Suleman Waheed
 
-**DevOps Engineer | Cloud Infrastructure | CI/CD Automation | AI & RAG Systems**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Salmaan%20Waheed&fontSize=42&fontColor=ffffff&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=65" width="100%" />
+</p>
 
-DevOps Engineer at Live Chat Global, focused on building reliable infrastructure, automating deployment workflows, and supporting AI-powered applications.
+<h3 align="center">DevOps Engineer | Cloud Infrastructure | CI/CD Automation | AI & RAG Systems</h3>
 
-I work across development and operations, helping teams move applications from development to production through automated CI/CD pipelines, containerization, cloud infrastructure, and monitoring.
+<p align="center">
+  Building reliable infrastructure, automating deployments, and developing AI-powered solutions.
+</p>
 
-My experience includes building deployment pipelines from scratch, managing AWS infrastructure, Docker-based deployments, and implementing monitoring and alerting with Prometheus and Grafana. I also have hands-on experience with Python backends, FastAPI, PostgreSQL, and RAG-based AI applications.
+---
 
-## At Work
+## About Me
 
-- Build and maintain CI/CD pipelines using GitHub Actions.
-- Manage Docker-based application deployments and container environments.
-- Work with AWS infrastructure, EC2, networking, server configuration, and deployment operations.
-- Implement monitoring and observability using Prometheus and Grafana.
-- Configure application health checks, metrics, alerts, and operational dashboards.
-- Manage Git workflows, branch protection, synchronization, and repository deployment strategies.
-- Collaborate with development teams to troubleshoot deployment issues and improve application reliability.
-- Support AI-powered applications involving LLM integrations, RAG pipelines, vector databases, and backend APIs.
+I'm a DevOps Engineer at **Live Chat Global**, focused on cloud infrastructure, deployment automation, containerization, monitoring, and AI-powered applications.
 
-## Projects
+I enjoy building scalable systems, improving deployment workflows, and exploring the intersection of DevOps and Artificial Intelligence.
 
-**EchoFlow – AI-Powered Support Platform**
+## Technical Skills
 
-- Worked on infrastructure and deployment workflows for an AI-powered customer support platform.
-- Managed Docker deployments and application environments.
-- Worked with AWS, GitHub Actions, Prometheus, Grafana, PostgreSQL, and Redis.
-- Supported AI integrations involving LLMs, Pinecone, and backend services.
+**Cloud & Infrastructure**
 
-**Quantum Bases Chatbot**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-- Developed a document-based RAG chatbot using FAISS and Groq.
-- Built backend APIs using FastAPI.
-- Worked on document ingestion, vector search, and retrieval-based responses.
+**CI/CD & Monitoring**
 
-**Microvest – AI-Powered Crypto Application**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-- Worked on RAG and tool-calling workflows for cryptocurrency reporting.
-- Integrated BTC and ETH reporting capabilities.
-- Used PostgreSQL for application data management.
+**Development & AI**
 
-## Technical Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Cloud:** AWS, EC2, Docker, Linux, Nginx, GitHub Actions
+## Professional Experience
 
-**Monitoring:** Prometheus, Grafana, Alerting, Application Metrics
+### Live Chat Global — DevOps Engineer
 
-**CI/CD & Version Control:** Git, GitHub, Branch Protection, Automated Deployments
+- Working on cloud infrastructure, CI/CD automation, Docker deployments, and monitoring.
+- Improving deployment workflows and frontend/backend repository separation.
+- Managing application deployments and infrastructure reliability.
 
-**Backend:** Python, FastAPI, REST APIs, PostgreSQL
+### Quantum Bases — DevOps Engineer
 
-**AI & Machine Learning:** RAG, LLM APIs, FAISS, Pinecone, Groq, Vector Databases, AI Agents, Tool Calling
+- Worked on infrastructure setup, CI/CD pipelines, containerization, and monitoring.
+- Contributed to AI-powered applications and RAG-based systems.
+- Worked with cloud servers, deployment automation, and application monitoring.
 
-**Databases & Caching:** PostgreSQL, Redis
+## Featured Projects
 
-**Infrastructure:** Server Management, Deployment Automation, Reverse Proxy, Health Checks, Troubleshooting
+### EchoFlow
 
-## How I Work
+AI-powered platform with cloud infrastructure, containerized deployments, CI/CD automation, and monitoring using Prometheus and Grafana.
 
-I believe DevOps is more than maintaining servers and pipelines. It is about ownership, collaboration, automation, and making software delivery reliable.
+### Quantum Bases Chatbot
 
-I focus on understanding application architecture, improving deployment processes, resolving infrastructure issues, and working closely with development teams to keep systems stable and delivery on track.
+RAG-based chatbot using FAISS, Groq, FastAPI, and document-based knowledge retrieval.
 
-I enjoy learning new technologies, exploring AI infrastructure, and improving the way development teams build, deploy, and maintain applications.
+### Microvest
+
+AI-powered crypto application featuring RAG, tool calling, Bitcoin and Ethereum reporting, and PostgreSQL integration.
 
 ## Areas of Interest
 
-- Cloud & Infrastructure Engineering
-- DevSecOps and Cloud Security
-- Kubernetes and Container Orchestration
-- AI Infrastructure and MLOps
-- LLM Application Security
-- Automation and Observability
+- Cloud Infrastructure & DevOps
+- CI/CD Automation
+- Containerization & Kubernetes
+- Cloud Security & Cybersecurity
+- Generative AI & RAG Systems
+- AI Agents & Tool Calling
 
-**Let's connect and build reliable systems together.**
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salmaan-Waheed1&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmaan-Waheed1&layout=compact&theme=transparent" height="165" />
+</p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/suleman-waheed-bb0294221/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:salmaan.waheed78910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Automating. Learning. Improving.</i>
+</p>
